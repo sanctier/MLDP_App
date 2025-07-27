@@ -142,7 +142,7 @@ st.markdown("""
     <div style="text-align: center; padding: 1rem; color: black;">
         <h4>💎 Fun Facts About Diamonds</h4>
         <ul style="list-style-type: none; padding-left: 0;">
-            <li>The largest diamond ever found was the Cullinan diamond — it weighed 3,106 carats!</li>
+            <li>The largest diamond ever found was the Cullinan diamond, it weighed 3,106 carats.</li>
             <li>Diamonds are over 3 billion years old and form deep beneath the Earth's surface.</li>
             <li>A diamond can actually burn! It turns into carbon dioxide if exposed to extreme heat.</li>
         </ul>
